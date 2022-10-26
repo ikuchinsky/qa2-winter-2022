@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class FirstSeleniumTest {
-    private final By ACCEPT_COOKIES_BTN = By.id("onetrust-accept-btn-handler"])
+    private final By ACCEPT_COOKIES_BTN = By.id("onetrust-accept-btn-handler";])
     @Test
     public void openHomePageCheck () {
         System.setProperty("webdriver.chrome.driver", "C://chromedriver.exe");
