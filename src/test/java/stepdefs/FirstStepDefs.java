@@ -6,6 +6,5 @@ public class FirstStepDefs {
     @When("we are printing welcome text")
     public void print_welcome_text() {
         System.out.println("Hey-Hey! All works fine!");
-
     }
 }
