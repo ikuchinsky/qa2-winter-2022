@@ -21,8 +21,6 @@ public class WeatherResponse {
 
         private List<Hourly> hourly;
 
-        private double pop;
-
         private List<Daily> daily;
 
         private List<Alerts> alerts;
